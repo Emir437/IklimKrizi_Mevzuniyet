@@ -14,7 +14,7 @@ Proje üç ana başlık altında çözümler sunar:
 
 -İş Yeri: Kurumsal karbon ayak izi azaltma yöntemleri, yeşil ofis uygulamaları.
 
--Genel Alanlar: Toplu taşıma, doğa dostu alışkanlıklar, kamu politikaları.
+-Genel Alanlar: Toplu taşıma, doğa dostu alışkanlıklar.
 
 📊 Kullanılan Yöntemler
 
